@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm a passionate Product Designer with knowledge in Frontend Development always looking for new challenges</h3>
+<h3 align="center">I'm a passionate Product Manager with knowledge in Frontend Development always looking for new challenges</h3>
 
 
 ## Technologies
